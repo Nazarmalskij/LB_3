@@ -1,0 +1,2 @@
+D:\Project\OOP\LB3\LB_3.3_C\Debug\LB_3.3_C.exe
+D:\Project\OOP\LB3\LB_3.3_C\Debug\LB_3.3_C.pdb
