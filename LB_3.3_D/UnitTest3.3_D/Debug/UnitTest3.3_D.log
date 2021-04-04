@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest3.3_D.cpp
+D:\Project\OOP\LB3\LB_3.3_D\Complex_Public.cpp(42,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB3\LB_3.3_D\Complex_Public.cpp(47,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB3\LB_3.3_D\Complex_Public.cpp(52,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB3\LB_3.3_D\Complex_Public.cpp(57,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Project\OOP\LB3\LB_3.3_D\Debug\UnitTest3.3_D.lib and object D:\Project\OOP\LB3\LB_3.3_D\Debug\UnitTest3.3_D.exp
+  UnitTest3.3_D.vcxproj -> D:\Project\OOP\LB3\LB_3.3_D\Debug\UnitTest3.3_D.dll
